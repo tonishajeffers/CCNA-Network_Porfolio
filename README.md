@@ -4,4 +4,4 @@ The following will be show cased:
 * Configuration Skills (Switching, Routing, Security)
 * Network Design (used CDP and LLDP to locate devices on a campus)
 * Problem Solving
- (U+00A7) My goal is to become a network engineer through labs. 
+ 
